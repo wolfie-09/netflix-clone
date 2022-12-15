@@ -6,10 +6,6 @@
 
 ## Quick Links
 
-[Demo](#demo)
-
-- [Live Site](#live-site-demo)
-
 [Stack](#tech-stack)
 
 [About](#Implementation-Hightlights)
@@ -19,12 +15,6 @@
 [Author](#author)
 
 [License](#license)
-
----
-
-## Live Site Demo
-
-Demo: [Link](https://netflix-clone-c0154.web.app/)
 
 ---
 
